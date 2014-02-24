@@ -1,8 +1,10 @@
 inherit kde4
 
 NAME="kde-l10n-zh_CN"
-VERSION=4.10.5
+VERSION=4.11.5
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Simplified Chinese translation files"
 DESCRIPTION="KDE Simplified Chinese translation files"
+
+ARCH=noarch
